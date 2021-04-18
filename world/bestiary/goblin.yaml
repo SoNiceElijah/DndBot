@@ -1,0 +1,27 @@
+name: "гоблин"
+description : "Маленькое чмо, которое бьет людей"
+
+fears:
+  - "fire"
+  - "light"
+resist: 
+  - "jopa"
+
+strength: 4
+agility: -10
+intelligence: 1
+charisma: 3
+
+hp: 4
+armor: 1
+mana: 0
+
+effects:
+  - "gold_obsession"
+
+weapon:
+  - "dagger"
+
+spells:
+  - "invisiability"
+
